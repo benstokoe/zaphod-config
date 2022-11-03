@@ -74,7 +74,7 @@
             label = "Nav";
             bindings = <
                 &none      &none      &kp UP      &none           &none         &none           &none          &none       &none      &none
-                &none      &kp LEFT   &kb DOWN    &kp RIGHT       &none         &none           &none          &none       &none      &none
+                &none      &kp LEFT   &kp DOWN    &kp RIGHT       &none         &none           &none          &none       &none      &none
                 &none      &none      &none       &none           &none         &none           &none          &none       &none      &none
                                                   &none           &none         &none           &none
             >;
