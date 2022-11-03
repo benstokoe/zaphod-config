@@ -13,6 +13,8 @@
 #define SYM_L 2
 #define NAV_L 3
 
+&lt { quick_tap_ms = <200>; };
+
 / {
     combos {
         compatible = "zmk,combos";
